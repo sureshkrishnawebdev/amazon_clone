@@ -1,0 +1,13 @@
+Repository - 1 (Main Project Folder)
+  Branches - ... (Sub Folders)
+    Main
+    Master
+    Feature/landing_page
+
+ Commits - inside sub folder changes - Main(sub folder)
+    - inital setup
+    - inital extended
+
+ Commits - inside sub folder changes - Feature/landing_page(sub folder)
+  - landing_page.html
+  - landing_page.scss  
